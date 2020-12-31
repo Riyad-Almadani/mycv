@@ -5,7 +5,19 @@ h1 {
     margin-top: 0px;
 }
 
-div {
+.top-container {
     background-color: #E4F9F5;
     
+}
+
+.middle-container {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.bottom-container {
+    width: 200px;
+    height: 200px;
+    background-color: purple;
 }
